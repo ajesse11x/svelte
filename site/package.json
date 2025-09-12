@@ -24,7 +24,7 @@
     "pg": "^7.10.0",
     "polka": "^1.0.0-next.2",
     "prismjs": "^1.15.0",
-    "sirv": "^0.4.0",
+    "sirv": "^3.0.2",
     "yootils": "0.0.15"
   },
   "devDependencies": {
